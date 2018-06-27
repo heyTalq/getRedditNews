@@ -1,1 +1,2 @@
-# getRedditNews
+# Reddit is one of the most popular sites on the internet, being visitied by millions of people every day with millions more clicks. With so many users on this platform, more and more people are relying on "the front page of the internet" for their daily news. This Amazon Alexa Skill takes advantage of the subreddit https://www.reddit.com/r/news/ to create an interactive speech to speech news experience. 
+
